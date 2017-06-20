@@ -8,7 +8,7 @@ Based on official [PHP docker image](https://hub.docker.com/_/php/).
 Supported tags
 --------------
 
-- [`5.4-cli`, `5.4`](5.4/Dockerfile)
+- [`5.4-cli`, `5.4`, `latest`](5.4/Dockerfile)
 - [`5.4-alpine`](5.4/alpine/Dockerfile)
 - [`5.4-fpm`](5.4/fpm/Dockerfile)
 - [`5.4-fpm-alpine`](5.4/fpm/alpine/Dockerfile)
